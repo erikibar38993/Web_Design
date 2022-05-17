@@ -1,0 +1,63 @@
+#spicy {
+    background-color: red;
+}
+
+div.puppy {
+    background-color: rgb(169, 241, 0);
+    color: rgb(0, 101, 126);
+} 
+
+div.mix {
+    background-color: black;
+    color:chocolate;
+}
+
+div.meow {
+    background-color: aquamarine;
+    color: black;
+}
+
+h1.headline {
+    color: rgb(48, 101, 161);
+}
+
+p.substance {
+    color: rgb(37, 236, 226);
+}
+
+span.fire {
+    font-size: 120%;
+    color: red;
+}
+
+div.frosting {
+    background-color: peru;
+    color:lavenderblush;
+}
+
+span.earth {
+    font-size: 200%;
+    color: orange;
+    background-color: black;
+    font-family: times;
+}
+
+span.wind {
+    font-size: 280%;
+    color: blue;
+    background-color: lightblue;
+    font-family: arial;
+}
+
+span.flame {
+    font-size: 210%;
+    color: red;
+    background-color: gray;
+    font-family: cursive
+}
+
+h5 {
+    color: black;
+    padding-left: 50px;
+   
+  }
