@@ -1,0 +1,78 @@
+body {
+    background: top 0% left 0% / 50% 14% repeat url("GIF-Dog-learn-to-swim.gif");
+  }
+h2 {
+    position: absolute;
+    right: 220px;
+    bottom: 5px ;
+}
+h3 {
+    position: absolute;
+    height: 25px;
+    left: 100px;
+    bottom: 5px ;
+}
+#positionAbsolute {
+    position: absolute;
+    right: 50px ;
+    bottom: 5px ;
+  }
+  .whitebox {
+    background-color: rgb(124, 185, 118);
+    border: 2px black solid;
+    border-style: aqua;
+    border-width: 7px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: 40px
+  }
+  #container {
+    background-color: #D2691E;
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    padding-left: 30px;
+    padding-top: 25px;
+    
+  }
+  
+  h1 {
+    color: black;
+    padding-left: 25px;
+    padding-top: 5px;
+  }
+
+  #positionRelative3 {
+    position: Relative;
+    bottom: 25px ;
+
+  }
+  .fourthwhitebox {
+    background-color: rgb(160, 88, 219);
+    border: 2px rgb(33, 146, 67) solid;
+    border-style: rgb(168, 236, 236);
+    border-width: 7px;
+    padding: 10px;
+    margin: 10px;
+    width: 220px;
+    height: 40px
+  }
+
+#Happydog {
+    float: right;
+}
+
+#meancat {
+    float: right;
+}
+
+#picTop2 {
+    position: relative;
+    top: 25px;
+  }
+  
+  #picRelative2 {
+    position: relative;
+    left: 40px;
+  }
