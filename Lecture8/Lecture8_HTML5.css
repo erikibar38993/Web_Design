@@ -53,7 +53,6 @@ nav a:hover {
 nav li {
   display: inline-block;
   width: 80px;
-  text-align: center;
 }
 article {
   position: relative;
@@ -113,6 +112,8 @@ aside h3 {
   line-height: 14px;
   margin: 20px 0px 0px 0px;
   padding: 10px 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 aside p {
   color: rgba(255, 0, 0, 0.876);
