@@ -16,7 +16,7 @@ header[role="banner"] {
 h1 {
   font-size: 60px;
   text-align: center;
-  color: #ff4ba0;
+  color: #ff0000;
   text-shadow: 0 1px 1px rgba(235, 125, 0, 0.856);
   margin: 5px 0 0 0;
 }
@@ -44,7 +44,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   padding: 5px 20px;
-  background: #fd2e00;
+  background: #fd0000;
   color: #ffae00;
   text-shadow: 0 1px 1px rgba(255, 230, 0, 0.759);
   border: solid 4px rgb(255, 119, 0);
@@ -53,7 +53,7 @@ nav ul li a {
 article {
   position: relative;
   top: 35px;
-  background-color: #df0b04;
+  background-color: #ff0000;
   border: double 10px rgb(246, 111, 0);
   text-shadow: 0 1px 1px rgba(255, 238, 0, 0.938);
   height: 550px;
@@ -95,4 +95,30 @@ section p {
   font-size: 16px;
   font-style: italic;
   line-height: 22px;
+}
+
+aside {
+  position: relative;
+  top: -535px;
+  left: 640px;
+  background-color: #ff8800;
+  border: solid 8px rgb(255, 0, 0);
+  height: 555px;
+  width: 302px;
+  text-shadow: 0 1px 1px rgb(255, 0, 0);
+}
+
+aside h3 {
+  color: #ff0000;
+  font-size: 24px;
+  line-height: 14px;
+  margin: 20px 0px 0px 0px;
+  padding: 10px 20px;
+}
+
+
+aside p {
+  color: rgba(255, 247, 0, 0.882);
+  line-height: 22px;
+  padding: 0 20px;
 }
