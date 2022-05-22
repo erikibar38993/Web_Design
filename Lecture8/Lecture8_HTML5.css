@@ -126,7 +126,7 @@ aside p {
 
 aside nav {
   margin: 0 auto;
-  nav-left: 100px ;
+  nav-right: 100px ;
 }
 
 aside nav ul {
