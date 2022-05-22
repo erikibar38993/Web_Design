@@ -43,6 +43,14 @@ nav ul li a {
   text-shadow: 0 1px 1px rgba(255, 230, 0, 0.759);
   border: solid 4px rgb(255, 119, 0);
 }
+nav a { text-decoration: none;
+  color: rgb(255, 123, 0);
+  display: block;
+  padding: 20px 10px;
+}
+nav a:hover {
+  background-color: rgb(255, 247, 0);
+}
 article {
   position: relative;
   top: 35px;
