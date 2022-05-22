@@ -23,7 +23,8 @@ h1 {
 
 nav {
   margin: 0 auto;
-  width: 500px;
+  left: 300px;
+  width: 700px;
 }
 
 nav ul {
