@@ -45,10 +45,10 @@ body {
   nav ul li a {
     text-decoration: none;
     padding: 5px 20px;
-    background: #ffcd9b;
-    color: #ffffff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
-    border: solid 4px white;
+    background: #d16901;
+    color: #eeff00;
+    text-shadow: 0 1px 1px rgba(253, 12, 12, 0.71);
+    border: solid 4px rgb(255, 113, 18);
   }
-  
+
   
