@@ -6,13 +6,11 @@ body {
   font-family: Times, serif;
   color: #ff0000;
 }
-
 header[role="banner"] {
   margin-top: 20px;
   height: 135px;
   border: solid 10px rgb(255, 132, 0);
 }
-
 h1 {
   font-size: 60px;
   text-align: center;
@@ -20,19 +18,16 @@ h1 {
   text-shadow: 0 1px 1px rgba(235, 125, 0, 0.856);
   margin: 5px 0 0 0;
 }
-
 nav {
   margin: 0 auto;
   width: 700px;
 }
-
 nav ul {
   text-align: center;
   font-family: Arial, Verdana;
   font-size: 18px;
   list-style: none;
 }
-
 nav ul li {
   display: inline-block;
   height: 20px;
@@ -40,7 +35,6 @@ nav ul li {
   margin: 0 55px 0 5px;
   white-space: nowrap;
 }
-
 nav ul li a {
   text-decoration: none;
   padding: 5px 20px;
@@ -49,7 +43,6 @@ nav ul li a {
   text-shadow: 0 1px 1px rgba(255, 230, 0, 0.759);
   border: solid 4px rgb(255, 119, 0);
 }
-
 article {
   position: relative;
   top: 35px;
@@ -59,7 +52,6 @@ article {
   height: 550px;
   width: 600px;
 }
-
 article h2 {
   color: #fdf500;
   font-size: 24px;
@@ -67,20 +59,17 @@ article h2 {
   margin: 20px 0 0 0;
   padding: 10px 20px;
 }
-
 article p {
   color: rgba(255, 157, 0, 0.941);
   line-height: 24px;
   padding: 2px 20px;
 }
-
 section {
   background-color: #ffa600;
   border: double 4px rgb(255, 0, 0);
   padding: 0px;
   margin: 10px 10px;
 }
-
 section h3 {
   color: #fff700;
   font-size: 22px;
@@ -96,7 +85,6 @@ section p {
   font-style: italic;
   line-height: 22px;
 }
-
 aside {
   position: relative;
   top: -535px;
@@ -107,8 +95,6 @@ aside {
   width: 302px;
   text-shadow: 0 1px 1px rgb(255, 0, 0);
 }
-
-
 aside h3 {
   color: #ff0000;
   font-size: 24px;
@@ -116,26 +102,22 @@ aside h3 {
   margin: 20px 0px 0px 0px;
   padding: 10px 20px;
 }
-
-
 aside p {
   color: rgba(255, 0, 0, 0.876);
   line-height: 22px;
   padding: 0 20px;
 }
-
 aside nav {
   margin: 0 auto;
+  left: 300px;
   width: 700px;
 }
-
 aside nav ul {
   text-align: center;
   font-family: Arial, Verdana;
   font-size: 15px;
   list-style: none;
 }
-
 aside nav ul li {
   display: inline-block;
   height: 20px;
@@ -143,7 +125,6 @@ aside nav ul li {
   margin: 0 55px 0 5px;
   white-space: nowrap;
 }
-
 aside nav ul li a {
   text-decoration: none;
   text-indent: 5px;
@@ -153,11 +134,8 @@ aside nav ul li a {
   text-shadow: 0 1px 1px rgba(255, 230, 0, 0.759);
   border: solid 4px rgb(255, 119, 0);
 }
-
-
 footer {
   margin-top: 20px;
   height: 135px;
   border: solid 10px rgb(255, 132, 0);
-
 }
