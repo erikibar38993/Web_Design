@@ -51,6 +51,12 @@ nav a { text-decoration: none;
 nav a:hover {
   background-color: rgb(255, 247, 0);
 }
+nav li {
+  display: inline-block;
+  width: 80px;
+  text-align: center;
+}
+
 article {
   position: relative;
   top: 35px;
