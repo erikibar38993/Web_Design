@@ -24,7 +24,7 @@ body {
 
   nav {
     margin: 0 auto;
-    width: 700px;
+    width: 800px;
   }
   
   nav ul {
@@ -58,7 +58,7 @@ body {
     border: double 10px rgb(212, 0, 0);
     text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
     height: 850px;
-    width: 500px;
+    width: 855px;
   }
   
   article h2 {
