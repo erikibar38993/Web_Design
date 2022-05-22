@@ -23,7 +23,6 @@ h1 {
 
 nav {
   margin: 0 auto;
-  right: 400px;
   width: 700px;
 }
 
@@ -127,6 +126,7 @@ aside p {
 
 aside nav {
   margin: 0 auto;
+  right: 100px;
   width: 100px;
 }
 
