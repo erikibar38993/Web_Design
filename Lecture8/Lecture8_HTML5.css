@@ -133,7 +133,7 @@ aside nav {
 aside nav ul {
   text-align: center;
   font-family: Arial, Verdana;
-  font-size: 18px;
+  font-size: 15px;
   list-style: none;
 }
 
@@ -147,6 +147,7 @@ aside nav ul li {
 
 aside nav ul li a {
   text-decoration: none;
+  text-indent: 10px;
   padding: 5px 20px;
   background: #fd0000;
   color: #ffae00;
