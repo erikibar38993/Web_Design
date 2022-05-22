@@ -146,7 +146,23 @@ aside nav ul li a {
   text-shadow: 0 1px 1px rgba(255, 230, 0, 0.759);
   border: solid 4px rgb(255, 119, 0);
 }
-
+aside ul li, 
+aside ul li a{
+  text-indent: 10px;
+  display: block
+}
+aside ul li a:link,
+aside ul li a:visited {
+  text-decoration: none;
+  color: #f6ff00;
+  padding: 10px;
+  transition: all 0.5s;
+}
+aside ul li a:hover,
+aside ul li a:active{
+  text-indent: 20px;
+  background: #ff0000;
+}
 footer {
   margin-top: 20px;
   height: 135px;
