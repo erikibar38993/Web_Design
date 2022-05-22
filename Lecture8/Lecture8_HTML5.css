@@ -23,7 +23,7 @@ h1 {
 
 nav {
   margin: 0 auto;
-  width: 800px;
+  width: 500px;
 }
 
 nav ul {
@@ -119,36 +119,7 @@ aside h3 {
 
 
 aside p {
-  color: rgba(255, 247, 0, 0.882);
+  color: rgba(255, 0, 0, 0.876);
   line-height: 22px;
   padding: 0 20px;
-}
-
-aside nav {
-  margin: 0 auto;
-  width: 800px;
-
-}
-aside nav ul {
-  text-align: center;
-  font-family: Arial, Verdana;
-  font-size: 18px;
-  list-style: none;
-}
-
-aside nav ul li {
-  display: inline-block;
-  height: 20px;
-  width: 95px;
-  margin: 0 55px 0 5px;
-  white-space: nowrap;
-}
-
-aside nav ul li a {
-  text-decoration: none;
-  padding: 5px 20px;
-  background: #fd0000;
-  color: #ffae00;
-  text-shadow: 0 1px 1px rgba(255, 230, 0, 0.759);
-  border: solid 4px rgb(255, 119, 0);
 }
