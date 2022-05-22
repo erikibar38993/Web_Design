@@ -124,3 +124,13 @@ aside p {
   line-height: 22px;
   padding: 0 20px;
 }
+
+
+
+
+footer {
+  margin-top: 20px;
+  height: 135px;
+  border: solid 10px rgb(255, 132, 0);
+
+}
