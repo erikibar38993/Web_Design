@@ -97,3 +97,29 @@ body {
     font-style: italic;
     line-height: 22px;
   }
+
+  aside {
+    position: relative;
+    top: -535px;
+    left: 640px;
+    background-color: #e47200;
+    border: solid 8px rgb(239, 243, 13);
+    height: 555px;
+    width: 302px;
+    text-shadow: 0 1px 1px rgba(249, 11, 11, 0.786);
+  }
+  
+  aside h3 {
+    color: #d70000;
+    font-size: 24px;
+    line-height: 14px;
+    margin: 20px 0px 0px 0px;
+    padding: 10px 20px;
+  }
+  
+  aside p {
+    color: rgba(245, 220, 4, 0.766);
+    line-height: 22px;
+    padding: 0 20px;
+  }
+  
