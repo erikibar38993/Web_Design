@@ -57,8 +57,8 @@ body {
     background-color: #ff8000;
     border: double 10px rgb(212, 0, 0);
     text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
-    height: 550px;
-    width: 900px;
+    height: 950px;
+    width: 450px;
   }
   
   article h2 {
@@ -104,8 +104,8 @@ body {
     left: 640px;
     background-color: #e47200;
     border: solid 8px rgb(239, 243, 13);
-    height: 555px;
-    width: 900px;
+    height: 955px;
+    width: 450px;
     text-shadow: 0 1px 1px rgba(249, 11, 11, 0.786);
   }
   
