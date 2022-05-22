@@ -109,6 +109,7 @@ aside p {
 }
 aside nav {
   margin: 0 auto;
+  nav-right: auto;
   width: 300px;
 }
 aside nav ul {
