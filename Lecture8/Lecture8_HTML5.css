@@ -10,6 +10,7 @@ header[role="banner"] {
   margin-top: 20px;
   height: 135px;
   border: solid 10px rgb(255, 132, 0);
+  padding-bottom: solid 25  rgb(255, 132, 0);;
 }
 h1 {
   font-size: 60px;
