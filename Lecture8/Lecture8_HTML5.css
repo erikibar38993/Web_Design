@@ -96,29 +96,3 @@ section p {
   font-style: italic;
   line-height: 22px;
 }
-
-aside {
-  position: relative;
-  top: -535px;
-  left: 640px;
-  background-color: #ff8800;
-  border: solid 8px rgb(255, 0, 0);
-  height: 555px;
-  width: 302px;
-  text-shadow: 0 1px 1px rgb(255, 0, 0);
-}
-
-aside h3 {
-  color: #ff0000;
-  font-size: 24px;
-  line-height: 14px;
-  margin: 20px 0px 0px 0px;
-  padding: 10px 20px;
-}
-
-
-aside p {
-  color: rgba(255, 247, 0, 0.882);
-  line-height: 22px;
-  padding: 0 20px;
-}
