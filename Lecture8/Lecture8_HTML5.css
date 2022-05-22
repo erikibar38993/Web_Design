@@ -6,3 +6,10 @@ body {
     font-family: Times, serif;
     color: #fff700;
   }
+
+  header[role="banner"] {
+    margin-top: 20px;
+    height: 135px;
+    border: solid 10px rgb(255, 140, 0);
+    border-style: initial;
+  }
