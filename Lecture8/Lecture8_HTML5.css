@@ -126,7 +126,7 @@ aside p {
 
 aside nav {
   margin: 0 auto;
-  right: 400px ;
+  width: 700px;
 }
 
 aside nav ul {
@@ -145,7 +145,7 @@ aside nav ul li {
 
 aside nav ul li a {
   text-decoration: none;
-  text-indent: 10px;
+  text-indent: 5px;
   padding: 5px 20px;
   background: #fd0000;
   color: #ffae00;
