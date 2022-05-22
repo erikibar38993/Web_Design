@@ -74,3 +74,26 @@ body {
     line-height: 24px;
     padding: 2px 20px;
   }
+
+  section {
+    background-color: #fa3719;
+    border: double 4px rgb(255, 255, 14);
+    padding: 0px;
+    margin: 10px 10px;
+  }
+  
+  section h3 {
+    color: #ffa600;
+    font-size: 22px;
+    line-height: 14px;
+    margin: 10px 0 0 0;
+    padding: 20px 5px 0 20px;
+    text-shadow: 0 1px 1px rgba(253, 44, 44, 0.866);
+  }
+  
+  section p {
+    color: #f3ef06;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 22px;
+  }
