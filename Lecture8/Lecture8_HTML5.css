@@ -51,4 +51,26 @@ body {
     border: solid 4px rgb(255, 113, 18);
   }
 
+  article {
+    position: relative;
+    top: 35px;
+    background-color: #c16204;
+    border: double 10px rgb(212, 0, 0);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+    height: 550px;
+    width: 600px;
+  }
   
+  article h2 {
+    color: #c80017;
+    font-size: 24px;
+    line-height: 14px;
+    margin: 20px 0 0 0;
+    padding: 10px 20px;
+  }
+  
+  article p {
+    color: rgba(255, 232, 23, 0.741);
+    line-height: 24px;
+    padding: 2px 20px;
+  }
