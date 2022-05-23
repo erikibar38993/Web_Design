@@ -6,7 +6,7 @@ body {
 
 .header {
     margin-top: 9px;
-    height: 50px;
+    height: 25px;
     border: groove 10px rgb(0, 134, 183);
     padding: 20px 0 0 0;
 }
@@ -22,7 +22,7 @@ h1 {
 
   h3 {
     margin: 0px;
-    height: 25px;
+    height: 15px;
     border: groove 5px rgb(0, 134, 183);
     padding: 10px 0 0 0;
     font-size: 20px;
