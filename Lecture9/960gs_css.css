@@ -5,6 +5,8 @@ body {
 }
 
 .header {
-
+    margin-top: 20px;
+    height: 75px;
+    border: groove 10px rgb(0, 134, 183);
     padding: 25px 0 0 0;
 }
