@@ -63,8 +63,8 @@ article {
   background-color: #00ff91;
   border: double 10px rgb(208, 255, 0);
   text-shadow: 0 1px 1px rgba(2, 0, 130, 0.938);
-  height: 300px;
-  width: 300px;
+  height: 200px;
+  width: 200px;
 }
 article h2 {
   color: #fdf500;
@@ -111,8 +111,8 @@ aside {
   left: 640px;
   background-color: #ff8800;
   border: solid 8px rgb(255, 0, 0);
-  height: 555px;
-  width: 302px;
+  height: 255px;
+  width: 202px;
   text-shadow: 0 1px 1px rgb(255, 0, 0);
 }
 
