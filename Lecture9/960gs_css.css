@@ -63,8 +63,8 @@ article {
   background-color: #00ff91;
   border: double 10px rgb(208, 255, 0);
   text-shadow: 0 1px 1px rgba(2, 0, 130, 0.938);
-  height: 550px;
-  width: 600px;
+  height: 300px;
+  width: 300px;
 }
 article h2 {
   color: #fdf500;
@@ -80,6 +80,20 @@ article p {
 
 }
 
+section {
+  background-color: #7300ff;
+  border: double 4px rgb(255, 0, 0);
+  padding: 0px;
+  margin: 10px 10px;
+}
+
+section p {
+  color: #ff0000;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 22px;
+}
+
 footer {
   text-align: center;
   font-size: 28;
@@ -91,6 +105,22 @@ footer {
   border: groove 3px rgb(212, 255, 0);
 }
 
+aside {
+  position: relative;
+  top: -535px;
+  left: 640px;
+  background-color: #ff8800;
+  border: solid 8px rgb(255, 0, 0);
+  height: 555px;
+  width: 302px;
+  text-shadow: 0 1px 1px rgb(255, 0, 0);
+}
+
+aside p {
+  color: rgba(255, 0, 0, 0.876);
+  line-height: 22px;
+  padding: 0 20px;
+}
 img {
   width: 100px;
 }
