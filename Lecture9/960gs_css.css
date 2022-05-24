@@ -54,7 +54,7 @@ footer {
   margin-top: 20px;
   height: 175px;
   width:  920px;
-  border: double 5px rgb(255, 4, 0);
+  border: thin 5px rgb(255, 4, 0);
 }
 
 img {
