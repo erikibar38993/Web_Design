@@ -18,7 +18,7 @@ h1 {
     margin: 5px 0 0 0;
   }
   nav a { text-decoration: none;
-    color: rgb(255, 123, 0);
+    color: rgb(0, 4, 255);
     display: block;
   }
   nav a:hover {
