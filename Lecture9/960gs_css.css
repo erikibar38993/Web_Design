@@ -44,6 +44,7 @@ footer {
   color: brown;
   margin-top: 20px;
   height: 175px;
+  width: auto;
   border: double 10px rgb(255, 4, 0);
 }
 
