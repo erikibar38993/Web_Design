@@ -29,6 +29,15 @@ h1 {
     margin: 5px 0 0 0;
   }
 
+  nav {
+    margin: 0 auto;
+    width: 700px;
+  }
+  nav ul {
+    font-family: Arial, Verdana;
+    font-size: 18px;
+    list-style: none;
+  }
   nav ul li {
     display: inline-block;
     height: 20px;
@@ -39,15 +48,15 @@ h1 {
 
 footer {
   text-align: center;
-  font-size: 18;
+  font-size: 28;
   font: Times;
   color: brown;
   margin-top: 20px;
   height: 175px;
-  width:  940px;
-  border: double 10px rgb(255, 4, 0);
+  width:  920px;
+  border: double 5px rgb(255, 4, 0);
 }
 
 img {
-  width: 125px;
+  width: 110px;
 }
