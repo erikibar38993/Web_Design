@@ -59,11 +59,11 @@ nav a:hover {
 
 article {
   position: relative;
-  top: 35px;
+  top: 15px;
   background-color: #00ff91;
   border: double 10px rgb(208, 255, 0);
   text-shadow: 0 1px 1px rgba(2, 0, 130, 0.938);
-  height: 300px;
+  height: 275px;
   width: 300px;
 }
 article h2 {
