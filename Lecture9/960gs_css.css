@@ -36,3 +36,9 @@ h1 {
     margin: 0 55px 0 5px;
     white-space: nowrap;
 }
+
+footer {
+  margin-top: 20px;
+  height: 135px;
+  border: solid 10px rgb(255, 132, 0);
+}
