@@ -17,6 +17,13 @@ h1 {
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     margin: 5px 0 0 0;
   }
+  nav a { text-decoration: none;
+    color: rgb(255, 123, 0);
+    display: block;
+  }
+  nav a:hover {
+    background-color: rgb(255, 247, 0);
+  }
 
   h3 {
     margin: 9px;
