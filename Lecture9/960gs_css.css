@@ -43,6 +43,10 @@ footer {
   font: Times;
   color: brown;
   margin-top: 20px;
-  height: 75px;
+  height: 175px;
   border: double 10px rgb(255, 4, 0);
+}
+
+img {
+  width: 50;
 }
