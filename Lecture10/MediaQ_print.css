@@ -17,18 +17,57 @@ header {
     background-color: #1eff00
 }
 
-section {
 
-    float: left;
-    font-weight: 300 ;
-    padding: 30px;
-    width: 50%;
-    font-size: 14px;
-    color: #ff0000;
-    box-sizing: border-box;
+nav {
+
+    clear:both;
+
 }
 
+nav li {
 
+    display: inline-block;
+    color: #333;
+    padding: 20px;
+    list-style: none;
+}
+
+article {
+
+    clear:both;
+    padding: 30px 60px;
+
+
+}
+
+footer{
+
+    background-color: #e3e3d3;
+    border: 1px solid #d0d0d0;
+    clear: both;
+    padding: 30px 60px;
+
+}
+
+h1 {
+
+    text-align: center;
+}
+
+@media print {
+
+    nav, footer {
+        display: none;
+    }
+
+
+    a {
+        text-decoration: none;
+        color: inherit
+    }
+}
+
+/*
 @media (max-width: 600px) {
 
     section {
@@ -52,3 +91,5 @@ section {
     }
 
 }
+
+*/
