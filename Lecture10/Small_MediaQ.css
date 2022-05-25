@@ -29,25 +29,18 @@ section {
 }
 
 
-@media (max-width: 500px) {
-
-    section {
-
-        width: 100%;
-        
-    }
-}
-
 @media (min-width: 400px) and (max-width: 600px) {
 
     header{
         background-color: rgb(0, 238, 255);
+        color: bisque;
 
     }
 
     section{
-
+        font-family: 'Courier New', Courier, monospace;
         font-size: 18px;
+        font-style: inherit;
   
     }
 

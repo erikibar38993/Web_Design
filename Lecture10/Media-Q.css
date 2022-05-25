@@ -36,18 +36,16 @@ section {
         width: 100%;
         
     }
-}
-
-@media (min-width: 500px) and (max-width: 800px) {
 
     header{
-        background-color: orange;
+        background-color: rgb(255, 0, 0);
 
     }
 
     section{
-
-        font-size: 18px;
+        background-color: black;
+        font-size: 24px;
+        color: blue;
   
     }
 
